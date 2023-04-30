@@ -7,5 +7,6 @@ int main(){
     std::cout<<"hahaaaaa4"<<std::endl;
     std::cout<<"hahaaaaa5"<<std::endl;
     std::cout<<"hahaaaaa6"<<std::endl;
+    std::cout<<"hahaaaaa7"<<std::endl;
     return 0;
 }
