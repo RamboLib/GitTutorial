@@ -11,5 +11,9 @@ int main(){
     std::cout<<"hahaaaaa8"<<std::endl;
     std::cout<<"hahaaaaa9"<<std::endl;
     std::cout<<"hahaaaaa10"<<std::endl;
+    std::cout<<"add 1"<<std::endl;
+    std::cout<<"add 2"<<std::endl;
+    std::cout<<"add 3"<<std::endl;
+
     return 0;
 }
