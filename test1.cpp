@@ -17,6 +17,8 @@ int main(){
     std::cout<<"add 4"<<std::endl;
     std::cout<<"add 5"<<std::endl;
     std::cout<<"add 6"<<std::endl;
-
+    std::cout<<"add 7"<<std::endl;
+    std::cout<<"add 8"<<std::endl;
+    std::cout<<"add 9"<<std::endl;
     return 0;
 }
