@@ -22,5 +22,6 @@ int main(){
     std::cout<<"add 9"<<std::endl;
     std::cout<<"add 11"<<std::endl;
     std::cout<<"add 10"<<std::endl;
+    std::cout<<"add 12"<<std::endl;
     return 0;
 }
